@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right top, #c7e9ff, #6fbdfd, #c278e4, #d821a1, #006494);
+}
+
+.name_of_objects
+{
+    color: aliceblue;
+}
+
+.heading
+{
+    color: aliceblue;
+    font-family: inherit;
+}
